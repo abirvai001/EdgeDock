@@ -1,10 +1,19 @@
 {
+<<<<<<< HEAD
   "latestVersion": "1.0.2",
   "versionCode": 2,
   "releaseTitle": "EdgeDock v1.0.2 Security & Ad Optimization Release",
   "releaseNotes": "🛡️ Security & Performance Update:\n- Integrated Enterprise Anti-Reverse-Engineering, Anti-Tamper & Anti-Debugger algorithms\n- Full R8 package flattening and string protection\n- Production Start.io ad monetization enabled\n- Improved in-app OTA update synchronization\n- Ultra-optimized binary (shrunk to 2.5MB)",
   "downloadUrl": "https://raw.githubusercontent.com/abirvai001/EdgeDock/main/EdgeDock-v1.0.2.apk",
   "githubReleaseUrl": "https://github.com/abirvai001/EdgeDock/releases/tag/v1.0.2",
+=======
+  "latestVersion": "1.0.1",
+  "versionCode": 2,
+  "releaseTitle": "EdgeDock v1.0 Official Release",
+  "releaseNotes": "🚀 First official release of EdgeDock (Smart Popup Tools) by StrawHats Studios.\n\n✨ Features:\n- Smart Edge Dock sidebar with floating overlay\n- Assistive touch controller & quick tools\n- RAM Booster, Volume & Brightness fine control\n- Custom neon glow themes & dock positioning\n- Full offline-first design with Start.io ad support\n- GitHub OTA updates integration",
+  "downloadUrl": "https://raw.githubusercontent.com/abirvai001/EdgeDock/main/EdgeDock-v1.0.apk",
+  "githubReleaseUrl": "https://github.com/abirvai001/EdgeDock/releases/tag/v1.0.0",
+>>>>>>> abb8c76a340623d8604a8a5db9ac48fca8ece86f
   "publishedAt": "2026-08-30",
   "forceUpdate": false
 }
