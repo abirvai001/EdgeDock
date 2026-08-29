@@ -1,4 +1,12 @@
 {
+  <<<<<<< HEAD
+  "latestVersion": "1.0.3",
+  "versionCode": 3,
+  "releaseTitle": "EdgeDock v1.0.2 Security & Ad Optimization Release",
+  "releaseNotes": "🛡️ Security & Performance Update:\n- Integrated Enterprise Anti-Reverse-Engineering, Anti-Tamper & Anti-Debugger algorithms\n- Full R8 package flattening and string protection\n- Production Start.io ad monetization enabled\n- Improved in-app OTA update synchronization\n- Ultra-optimized binary (shrunk to 2.5MB)",
+  "downloadUrl": "https://raw.githubusercontent.com/abirvai001/EdgeDock/main/EdgeDock-v1.0.2.apk",
+  "githubReleaseUrl": "https://github.com/abirvai001/EdgeDock/releases/tag/v1.0.2",
+=======
 <<<<<<< HEAD
   "latestVersion": "1.0.3",
   "versionCode": 3,
