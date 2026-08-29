@@ -1,5 +1,13 @@
 [
   {
+    "id": "notif_003",
+    "title": "Welcome to EdgeDock v1.0.2!",
+    "type": "Release",
+    "timestamp": "2026-08-30",
+    "body": "Welcome to EdgeDock! Enjoy ultra-fast multitasking with sidebar tools, floating controls, and performance optimization.",
+    "url": "https://github.com/abirvai001/EdgeDock"
+  },
+  {
     "id": "notif_001",
     "title": "Welcome to EdgeDock v1.0!",
     "type": "Release",
