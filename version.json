@@ -1,7 +1,7 @@
 {
-  "version_code": 2,
-  "version_name": "1.0.2",
-  "title": "EdgeDock v1.0.2 Security & Performance Release",
+  "version_code": 3,
+  "version_name": "1.0.3",
+  "title": "EdgeDock v1.0.3 Security & Performance Release",
   "notes": "🛡️ What's New:\n• Reverse engineering & tamper protection suite\n• Start.io live ad monetization enabled\n• Standardized GitHub raw update streaming\n• Shrunk optimized binary (2.5MB)",
   "apk_url": "https://raw.githubusercontent.com/abirvai001/EdgeDock/main/EdgeDock-latest.apk",
   "release_url": "https://github.com/abirvai001/EdgeDock/releases/latest",
