@@ -1,0 +1,18 @@
+[
+  {
+    "id": "notif_001",
+    "title": "Welcome to EdgeDock v1.0!",
+    "type": "Release",
+    "timestamp": "2026-08-30",
+    "body": "Welcome to EdgeDock! Enjoy ultra-fast multitasking with sidebar tools, floating controls, and performance optimization.",
+    "url": "https://github.com/abirvai001/EdgeDock"
+  },
+  {
+    "id": "notif_002",
+    "title": "StrawHats Studios Official Contact",
+    "type": "Announcement",
+    "timestamp": "2026-08-30",
+    "body": "For feature requests, support, or bug reports, please email us directly at strawhats.studios@gmail.com.",
+    "url": "mailto:strawhats.studios@gmail.com"
+  }
+]
