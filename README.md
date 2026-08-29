@@ -12,7 +12,7 @@
   <a href="https://raw.githubusercontent.com/abirvai001/EdgeDock/main/EdgeDock-latest.apk">
     <img src="https://img.shields.io/badge/Download-Latest%20APK%20(Direct)-00E5FF?style=for-the-badge&logo=android&logoColor=black" alt="Download EdgeDock APK" />
   </a>
-  <img src="https://img.shields.io/badge/Version-1.0.2-8B5CF6?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-1.0.3-8B5CF6?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/Status-Official%20Release-10B981?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Developer-StrawHats%20Studios-FF0055?style=for-the-badge" alt="Developer" />
 </p>
@@ -59,7 +59,7 @@ Click below to download the latest signed release APK directly:
 |---|---|
 | **App Name** | EdgeDock (Smart Popup Tools) |
 | **Package** | `ss.edgedock` |
-| **Version** | `1.0.2` (Version Code `2`) |
+| **Version** | `1.0.3` (Version Code `3`) |
 | **OS Compatibility** | Android 8.0 (API 26) through Android 15 (API 36) |
 | **Size** | ~2.58 MB |
 | **Developer** | StrawHats Studios |
